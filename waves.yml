@@ -6,3 +6,6 @@ data:
     - http://magicseaweed.com/Newquay-Fistral-North-Surf-Report/1/, Newquay - Fistral
     - http://magicseaweed.com/Menakoz-Surf-Report/168/, Meñakoz
     - http://magicseaweed.com/Mundaka-Surf-Report/169/, Mundaka
+
+test:
+  ciao: Michel
